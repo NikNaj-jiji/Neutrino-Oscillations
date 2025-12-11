@@ -1,12 +1,18 @@
-# Neutrino-Oscillations
-Neutrino oscillation project computing flavour–transition probabilities and showing that neutrinos must be massive. Includes PMNS mixing, CP-violation overview, and a coupled-pendula analogy to illustrate the physics.
-# Repository Structure
+# Neutrino Oscillations: Numerical Study and Coupled-Pendula Analogy
+
+Neutrino oscillation simulations showing flavour–mixing and the need for neutrino mass. Includes PMNS mixing, CP-violation overview, and a coupled-pendula analogue to illustrate eigenstate mixing.
+
+---
+
+## Repository Structure
+
+```text
 neutrino_oscillations/
-├── README.md                               # Project overview and instructions
+├── README.md
 ├── report/
-│   └── NeutrinoOscillations_Report.pdf     # Final written report
+│   └── NeutrinoOscillations_Report.pdf
 └── notebooks/
-    └── coupled_pendula.ipynb               # Jupyter notebook: 2- and 3-pendula simulations
+    └── coupled_pendula.ipynb
 
 ### **Folder Descriptions**
 
